@@ -1,0 +1,30 @@
+body{
+font-family: 'Russo One', sans-serif;
+}
+body{
+background-color:rgb(22, 74, 153);
+
+}
+
+.left {
+  display: inline-block;
+}
+
+#apple {
+  width: 550px;
+  height:550px;
+  background-image: url("apple.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: 200px;
+  float: right;
+  margin-top: 0px;
+}
+#directions{
+  float: left;
+  font-size: 25px;
+  display: inline-block;
+  width: 50%;
+}

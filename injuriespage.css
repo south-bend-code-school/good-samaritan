@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(69, 124, 211);
+}
+
+#home
+{
+  display: inline-block;
+}
+#bee
+{
+  display: inline-block;
+}
+#bite
+{
+  display: inline-block;
+}
+#bruise
+{
+  display: inline-block;
+}
+#foodalergy
+{
+  display: inline-block;
+}
+#scrape
+{
+  display: inline-block;
+}
